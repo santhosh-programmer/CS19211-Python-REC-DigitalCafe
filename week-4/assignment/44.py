@@ -1,7 +1,6 @@
 a=int(input())
 b=10
-c=1
-sum=1
+c=sum=1
 if a==0:
     print("0")
 else:
