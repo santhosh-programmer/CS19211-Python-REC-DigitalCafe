@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+print(a//b)
+c=str(a/b)
+print(c[:5])
