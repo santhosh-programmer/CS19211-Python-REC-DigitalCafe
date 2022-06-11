@@ -1,11 +1,11 @@
 a=int(input())
-#close means 0 in list
-#open means 1 in list
-close=a #count of close
-open=0 #count of open
-b=[0]*(a+1)
+#close=0
+#open=1
+close=a
+open=0
+b=[0]*(a)
 for i in range(1,a+1,):
-    for j in range(1,a+1,i):
+    for j in range(0,a,i):
         if(b[j]==0):
             b[j]=1
             close-=1
