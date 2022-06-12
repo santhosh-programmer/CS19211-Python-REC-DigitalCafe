@@ -1,1 +1,1 @@
-# NOTE: assignment answers are in week-4 folder
+# NOTE: assignment-1 is in week-4 folder
