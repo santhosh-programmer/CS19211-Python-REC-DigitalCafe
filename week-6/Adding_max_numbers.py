@@ -14,7 +14,6 @@
 
 # 11
 
-
 a=[]
 s=0
 def colmax(c,i):
