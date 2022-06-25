@@ -7,6 +7,8 @@ Always try to code on your own and use this for reference purpose only!!!<br>
 
 🐍[Week-03-Algorithmic Approach: Selection Control Structures](https://github.com/santhosh-p-official/CS19211-Python-REC-DigitalCafe/tree/main/week-3)
 
+<img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" align="right" width="50%" height="50%">
+
 🐍[Week-04-Algorithmic Approach: Iteration Control Structures.](https://github.com/santhosh-p-official/CS19211-Python-REC-DigitalCafe/tree/main/week-4)
 
 🐍[ASSIGNMENT-1](https://github.com/santhosh-p-official/CS19211-Python-REC-DigitalCafe/tree/main/week-4/assignment)
